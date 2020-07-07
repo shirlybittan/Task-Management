@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b35a86d-b3b1-4f33-8ebc-9ac9fa659bdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SYSTEM_PROJECT/src/system/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/SYSTEM_PROJECT/src/system/app.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cdy0U3OxRkzDGWzLTAq6JxsAQd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="C:\Users\yotam\Desktop\Task_Management_Prog\lib\Junit" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="system" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.app">
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="system.app" />
+      <module name="Task_Management_Prog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Task_Management_Prog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task_Management_Prog" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task_Management_Prog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.AssignmentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReminderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task_Management_Prog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.ReminderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReminderTest.Assignment_Adding_Searching_Deleting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task_Management_Prog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.ReminderTest" />
+      <option name="METHOD_NAME" value="Assignment_Adding_Searching_Deleting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.app" />
+      <item itemvalue="JUnit.AssignmentTest" />
+      <item itemvalue="JUnit.ReminderTest.Assignment_Adding_Searching_Deleting" />
+      <item itemvalue="JUnit.All in Task_Management_Prog" />
+      <item itemvalue="JUnit.ReminderTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.app" />
+        <item itemvalue="JUnit.ReminderTest" />
+        <item itemvalue="JUnit.All in Task_Management_Prog" />
+        <item itemvalue="JUnit.AssignmentTest" />
+        <item itemvalue="JUnit.ReminderTest.Assignment_Adding_Searching_Deleting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b35a86d-b3b1-4f33-8ebc-9ac9fa659bdb" name="Default Changelist" comment="" />
+      <created>1590872541581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590872541581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592133048422">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592133048422" />
+    <state x="92" y="92" width="1496" height="826" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591968126184">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="92" y="92" width="1496" height="826" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1591968126184" />
+    <state x="1100" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1592036454993">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1100" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592036454993" />
+    <state x="621" y="287" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1591021889360">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="621" y="287" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1591021889360" />
+    <state x="520" y="162" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1592133413625">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="520" y="162" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592133413625" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1592035904205">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592035904205" />
+    <state width="1342" height="268" key="GridCell.Tab.0.bottom" timestamp="1592329323954">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1342" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592329323954" />
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591544532016" />
+    <state width="1342" height="268" key="GridCell.Tab.0.center" timestamp="1592329323953">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1342" height="268" key="GridCell.Tab.0.center/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592329323953" />
+    <state width="1878" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591544532016" />
+    <state width="1342" height="268" key="GridCell.Tab.0.left" timestamp="1592329323953">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1342" height="268" key="GridCell.Tab.0.left/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592329323953" />
+    <state width="1878" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591544532015" />
+    <state width="1342" height="268" key="GridCell.Tab.0.right" timestamp="1592329323954">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1342" height="268" key="GridCell.Tab.0.right/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592329323954" />
+    <state width="1878" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591544532016" />
+    <state width="1638" height="330" key="GridCell.Tab.1.bottom" timestamp="1592037127801">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592037127801" />
+    <state width="1638" height="330" key="GridCell.Tab.1.center" timestamp="1592037127801">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1638" height="330" key="GridCell.Tab.1.center/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592037127801" />
+    <state width="1638" height="330" key="GridCell.Tab.1.left" timestamp="1592037127801">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1638" height="330" key="GridCell.Tab.1.left/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592037127801" />
+    <state width="1638" height="330" key="GridCell.Tab.1.right" timestamp="1592037127801">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1638" height="330" key="GridCell.Tab.1.right/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592037127801" />
+    <state x="281" y="90" key="SettingsEditor" timestamp="1592134346971">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="281" y="90" key="SettingsEditor/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592134346971" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1591703515156">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1591703515156" />
+    <state x="558" y="396" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592134357632">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="558" y="396" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592134357632" />
+    <state x="721" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592134362984">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="721" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1010/-1680.0.1680.1050@0.0.1680.1010" timestamp="1592134362984" />
+  </component>
+</project>
